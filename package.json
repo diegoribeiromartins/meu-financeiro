@@ -1,0 +1,9 @@
+{
+  "name": "meu-financeiro",
+  "version": "0.0.1",
+  "main": "index.js",
+  "private": "true",
+  "repository": "git@github.com:diegoribeiromartins/meu-financeiro.git",
+  "author": "Diego Ribeiro Martins",
+  "license": "GNU"
+}
